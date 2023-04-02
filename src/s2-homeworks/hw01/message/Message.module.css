@@ -1,0 +1,49 @@
+.message {
+    position: relative;
+    width: 527px;
+    height: 60px;
+    margin-left: 625px;
+    top: 12px;
+    background-color: #0059b3;
+    border-radius: 10px;
+}
+/* сверстал не точно но задача здесь мне понятна,
+на верстку ушло много времени, не стал много тратить на это время*/
+.imageAndText {
+    margin-top: 30px;
+
+}
+
+.imageAndText img {
+    position: relative;
+    width: 48px;
+    height: 48px;
+    left: 545px;
+    top: 10px;
+}
+
+.text {
+    position: relative;
+    left: 35px;
+    bottom: 35px;
+    color: white;
+}
+
+.text:after {
+}
+
+.name {
+    position: relative;
+    left: 440px;
+    bottom: 10px;
+}
+
+.messageText {
+
+}
+
+.time {
+    position: relative;
+    left: 550px;
+    bottom: 20px;
+}

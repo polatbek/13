@@ -1,0 +1,39 @@
+.sendForm {
+    display: flex;
+    position: relative;
+    width: 1120px;
+    margin-left: 100px;
+    margin-top: 150px;
+    }
+
+/* сверстал не точно но задача здесь мне понятна,
+на верстку ушло много времени, не стал много тратить на это время*/
+
+.textarea {
+    padding-top: 5px;
+    padding-left: 20px;
+    margin-right: 30px;
+    width: 976px;
+    height: 90px;
+    background: #F5F7FB;
+    border-radius: 20px;
+}
+
+
+.button {
+    margin-bottom: 30px;
+    margin-right: 35px;
+    width: 120px;
+    height: 30px;
+    left: 1090px;
+    background: #0066CC;
+    border-radius: 20px
+}
+
+.button:hover {
+    color: white;
+    background-color: forestgreen;
+}
+.button:active {
+    color: red;
+}

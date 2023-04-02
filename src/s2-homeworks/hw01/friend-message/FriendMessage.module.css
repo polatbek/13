@@ -1,0 +1,50 @@
+.friendMessage {
+    position: relative;
+    width: 414px;
+    height: 60px;
+    margin-left: 130px;
+    margin-top: 40px;
+    border-radius: 10px;
+    background: #F5F7FB;
+}
+/* сверстал не точно но задача здесь мне понятна,
+на верстку ушло много времени, не стал много тратить на это время*/
+.friendImageAndText {
+    position: relative;
+    width: 414px;
+    height: 60px;
+}
+
+.friendImageAndText img {
+    position: relative;
+    width: 48px;
+    right: 60px;
+    top: 12px;
+}
+
+.friendText {
+    position: relative;
+    bottom: 45px;
+}
+
+.friendText:after {
+
+}
+
+.friendName {
+    position: relative;
+    left: 10px;
+    bottom: 1px;
+}
+
+.friendMessageText {
+    position: relative;
+    left: 10px;
+    top: 12px;
+}
+
+.friendTime {
+    position: relative;
+    right: 55px;
+    top: 7px;
+}
